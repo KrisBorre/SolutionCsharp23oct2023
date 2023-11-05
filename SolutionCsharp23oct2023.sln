@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleMapmaker2nov2023", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleQuiz2nov2023", "ConsoleQuiz2nov2023\ConsoleQuiz2nov2023.csproj", "{70BA1A47-9707-41CD-B887-A533FE9A5A28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleQuiz3nov2023", "ConsoleQuiz3nov2023\ConsoleQuiz3nov2023.csproj", "{40CDD200-4599-45C7-BB2B-75201491BA88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleQuiz3nov2023", "ConsoleQuiz3nov2023\ConsoleQuiz3nov2023.csproj", "{40CDD200-4599-45C7-BB2B-75201491BA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRootsBessel5nov2023", "ConsoleRootsBessel5nov2023\ConsoleRootsBessel5nov2023.csproj", "{A3190473-9F6C-475D-8026-56018941BD27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{40CDD200-4599-45C7-BB2B-75201491BA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40CDD200-4599-45C7-BB2B-75201491BA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40CDD200-4599-45C7-BB2B-75201491BA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3190473-9F6C-475D-8026-56018941BD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3190473-9F6C-475D-8026-56018941BD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3190473-9F6C-475D-8026-56018941BD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3190473-9F6C-475D-8026-56018941BD27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

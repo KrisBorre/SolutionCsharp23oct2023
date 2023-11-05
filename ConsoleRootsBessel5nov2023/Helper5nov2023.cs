@@ -1,0 +1,30 @@
+﻿namespace ConsoleRootsBessel5nov2023
+{
+    internal class Helper5nov2023
+    {
+        public static double sqrt(double x)
+        {
+            return Math.Pow(x, 0.5);
+        }
+
+        public static double abs(double x)
+        {
+            return Math.Abs(x);
+        }
+
+        public static double cos(double x)
+        {
+            return Math.Cos(x);
+        }
+
+        public static double sin(double x)
+        {
+            return Math.Sin(x);
+        }
+
+        public static double log(double x)
+        {
+            return Math.Log(x);
+        }
+    }
+}
