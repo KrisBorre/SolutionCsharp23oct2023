@@ -37,7 +37,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleQuiz2nov2023", "Cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleQuiz3nov2023", "ConsoleQuiz3nov2023\ConsoleQuiz3nov2023.csproj", "{40CDD200-4599-45C7-BB2B-75201491BA88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRootsBessel5nov2023", "ConsoleRootsBessel5nov2023\ConsoleRootsBessel5nov2023.csproj", "{A3190473-9F6C-475D-8026-56018941BD27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleRootsBessel5nov2023", "ConsoleRootsBessel5nov2023\ConsoleRootsBessel5nov2023.csproj", "{A3190473-9F6C-475D-8026-56018941BD27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDifferentialEquations5nov2023", "LibraryDifferentialEquations5nov2023\LibraryDifferentialEquations5nov2023.csproj", "{7F213267-31E6-4D0B-8837-D25547B33073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDifferentialEquationDog5nov2023", "LibraryDifferentialEquationDog5nov2023\LibraryDifferentialEquationDog5nov2023.csproj", "{033CF340-8724-4D29-8486-F9230F5DCB50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK41_5nov2023", "ConsoleDifferentialEquationDogRK41_5nov2023\ConsoleDifferentialEquationDogRK41_5nov2023.csproj", "{D5159117-6113-4A3A-BAF4-A70C21DCE4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDifferentialEquationKepler5nov2023", "LibraryDifferentialEquationKepler5nov2023\LibraryDifferentialEquationKepler5nov2023.csproj", "{E5067E4D-3A30-4070-9A42-81F9CD8BB28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK41_5nov2023", "ConsoleDifferentialEquationKeplerRK41_5nov2023\ConsoleDifferentialEquationKeplerRK41_5nov2023.csproj", "{E7702226-5060-4773-B800-57CBE6430919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +127,26 @@ Global
 		{A3190473-9F6C-475D-8026-56018941BD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3190473-9F6C-475D-8026-56018941BD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3190473-9F6C-475D-8026-56018941BD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F213267-31E6-4D0B-8837-D25547B33073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F213267-31E6-4D0B-8837-D25547B33073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F213267-31E6-4D0B-8837-D25547B33073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F213267-31E6-4D0B-8837-D25547B33073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033CF340-8724-4D29-8486-F9230F5DCB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033CF340-8724-4D29-8486-F9230F5DCB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033CF340-8724-4D29-8486-F9230F5DCB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033CF340-8724-4D29-8486-F9230F5DCB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5159117-6113-4A3A-BAF4-A70C21DCE4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5159117-6113-4A3A-BAF4-A70C21DCE4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5159117-6113-4A3A-BAF4-A70C21DCE4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5159117-6113-4A3A-BAF4-A70C21DCE4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5067E4D-3A30-4070-9A42-81F9CD8BB28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5067E4D-3A30-4070-9A42-81F9CD8BB28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5067E4D-3A30-4070-9A42-81F9CD8BB28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5067E4D-3A30-4070-9A42-81F9CD8BB28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7702226-5060-4773-B800-57CBE6430919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7702226-5060-4773-B800-57CBE6430919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7702226-5060-4773-B800-57CBE6430919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7702226-5060-4773-B800-57CBE6430919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
