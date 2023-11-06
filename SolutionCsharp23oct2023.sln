@@ -39,15 +39,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleQuiz3nov2023", "Cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleRootsBessel5nov2023", "ConsoleRootsBessel5nov2023\ConsoleRootsBessel5nov2023.csproj", "{A3190473-9F6C-475D-8026-56018941BD27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDifferentialEquations5nov2023", "LibraryDifferentialEquations5nov2023\LibraryDifferentialEquations5nov2023.csproj", "{7F213267-31E6-4D0B-8837-D25547B33073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryDifferentialEquations5nov2023", "LibraryDifferentialEquations5nov2023\LibraryDifferentialEquations5nov2023.csproj", "{7F213267-31E6-4D0B-8837-D25547B33073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDifferentialEquationDog5nov2023", "LibraryDifferentialEquationDog5nov2023\LibraryDifferentialEquationDog5nov2023.csproj", "{033CF340-8724-4D29-8486-F9230F5DCB50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryDifferentialEquationDog5nov2023", "LibraryDifferentialEquationDog5nov2023\LibraryDifferentialEquationDog5nov2023.csproj", "{033CF340-8724-4D29-8486-F9230F5DCB50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK41_5nov2023", "ConsoleDifferentialEquationDogRK41_5nov2023\ConsoleDifferentialEquationDogRK41_5nov2023.csproj", "{D5159117-6113-4A3A-BAF4-A70C21DCE4AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationDogRK41_5nov2023", "ConsoleDifferentialEquationDogRK41_5nov2023\ConsoleDifferentialEquationDogRK41_5nov2023.csproj", "{D5159117-6113-4A3A-BAF4-A70C21DCE4AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDifferentialEquationKepler5nov2023", "LibraryDifferentialEquationKepler5nov2023\LibraryDifferentialEquationKepler5nov2023.csproj", "{E5067E4D-3A30-4070-9A42-81F9CD8BB28B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryDifferentialEquationKepler5nov2023", "LibraryDifferentialEquationKepler5nov2023\LibraryDifferentialEquationKepler5nov2023.csproj", "{E5067E4D-3A30-4070-9A42-81F9CD8BB28B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK41_5nov2023", "ConsoleDifferentialEquationKeplerRK41_5nov2023\ConsoleDifferentialEquationKeplerRK41_5nov2023.csproj", "{E7702226-5060-4773-B800-57CBE6430919}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRK41_5nov2023", "ConsoleDifferentialEquationKeplerRK41_5nov2023\ConsoleDifferentialEquationKeplerRK41_5nov2023.csproj", "{E7702226-5060-4773-B800-57CBE6430919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK61_6nov2023", "ConsoleDifferentialEquationDogRK61_6nov2023\ConsoleDifferentialEquationDogRK61_6nov2023.csproj", "{69BA7BD5-745A-43D4-BD9A-79138C680C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK61_6nov2023", "ConsoleDifferentialEquationKeplerRK61_6nov2023\ConsoleDifferentialEquationKeplerRK61_6nov2023.csproj", "{4C715214-1052-4AB1-A281-5FC82E485ADA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +151,14 @@ Global
 		{E7702226-5060-4773-B800-57CBE6430919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7702226-5060-4773-B800-57CBE6430919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7702226-5060-4773-B800-57CBE6430919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BA7BD5-745A-43D4-BD9A-79138C680C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BA7BD5-745A-43D4-BD9A-79138C680C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BA7BD5-745A-43D4-BD9A-79138C680C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BA7BD5-745A-43D4-BD9A-79138C680C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C715214-1052-4AB1-A281-5FC82E485ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C715214-1052-4AB1-A281-5FC82E485ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C715214-1052-4AB1-A281-5FC82E485ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C715214-1052-4AB1-A281-5FC82E485ADA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
