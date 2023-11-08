@@ -49,9 +49,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryDifferentialEquation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRK41_5nov2023", "ConsoleDifferentialEquationKeplerRK41_5nov2023\ConsoleDifferentialEquationKeplerRK41_5nov2023.csproj", "{E7702226-5060-4773-B800-57CBE6430919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK61_6nov2023", "ConsoleDifferentialEquationDogRK61_6nov2023\ConsoleDifferentialEquationDogRK61_6nov2023.csproj", "{69BA7BD5-745A-43D4-BD9A-79138C680C14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationDogRK61_6nov2023", "ConsoleDifferentialEquationDogRK61_6nov2023\ConsoleDifferentialEquationDogRK61_6nov2023.csproj", "{69BA7BD5-745A-43D4-BD9A-79138C680C14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK61_6nov2023", "ConsoleDifferentialEquationKeplerRK61_6nov2023\ConsoleDifferentialEquationKeplerRK61_6nov2023.csproj", "{4C715214-1052-4AB1-A281-5FC82E485ADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRK61_6nov2023", "ConsoleDifferentialEquationKeplerRK61_6nov2023\ConsoleDifferentialEquationKeplerRK61_6nov2023.csproj", "{4C715214-1052-4AB1-A281-5FC82E485ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEnum8nov2023", "ConsoleEnum8nov2023\ConsoleEnum8nov2023.csproj", "{2833DBA7-9AEF-4186-B8F6-55CA6D440D99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleFormat8nov2023", "ConsoleFormat8nov2023\ConsoleFormat8nov2023.csproj", "{59820066-1D83-4804-A986-67CC56E64C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK41_8nov2023", "ConsoleDifferentialEquationKeplerRK41_8nov2023\ConsoleDifferentialEquationKeplerRK41_8nov2023.csproj", "{602B859C-933E-4124-8660-FF3C47266604}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +165,18 @@ Global
 		{4C715214-1052-4AB1-A281-5FC82E485ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C715214-1052-4AB1-A281-5FC82E485ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C715214-1052-4AB1-A281-5FC82E485ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2833DBA7-9AEF-4186-B8F6-55CA6D440D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2833DBA7-9AEF-4186-B8F6-55CA6D440D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2833DBA7-9AEF-4186-B8F6-55CA6D440D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2833DBA7-9AEF-4186-B8F6-55CA6D440D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59820066-1D83-4804-A986-67CC56E64C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59820066-1D83-4804-A986-67CC56E64C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59820066-1D83-4804-A986-67CC56E64C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59820066-1D83-4804-A986-67CC56E64C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602B859C-933E-4124-8660-FF3C47266604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602B859C-933E-4124-8660-FF3C47266604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602B859C-933E-4124-8660-FF3C47266604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602B859C-933E-4124-8660-FF3C47266604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
