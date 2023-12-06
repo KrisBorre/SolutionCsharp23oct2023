@@ -32,7 +32,7 @@
             }
             /*
 brackets for roots of bessj0:
-lower      upper        f(lower)   f(upper)
+            lower      upper        f(lower)   f(upper)
 root  1     1.9800     2.4700        0.2354    -0.0334
 root  2     5.4100     5.9000       -0.0378     0.1220
 root  3     8.3500     8.8400        0.0826    -0.0497
