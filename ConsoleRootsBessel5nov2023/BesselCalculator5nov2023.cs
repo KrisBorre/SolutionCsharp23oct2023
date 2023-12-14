@@ -108,7 +108,7 @@
             }
         }
 
-        double j1(double x)
+        public double j1(double x)
         {
             if ((ax = Helper5nov2023.abs(x)) < 8.0)
             {
