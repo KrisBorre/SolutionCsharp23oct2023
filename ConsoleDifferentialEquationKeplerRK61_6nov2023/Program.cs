@@ -1,7 +1,7 @@
 ﻿using LibraryDifferentialEquationKepler5nov2023;
 using LibraryDifferentialEquations5nov2023;
 
-namespace ConsoleDifferentialEquationDogRK41_5nov2023
+namespace ConsoleDifferentialEquationKeplerRK61_6nov2023
 {
     internal class Program
     {
@@ -23,7 +23,7 @@ namespace ConsoleDifferentialEquationDogRK41_5nov2023
 
             double interval = Math.PI;
 
-            string myfile_log10_error_versus_log10_delta_x_RK61 = @"..\..\log10_error_versus_log10_delta_x_double_kmax5_RK61_kepler_6nov2023.txt";
+            string myfile_log10_error_versus_log10_delta_x_RK61 = @"..\..\log10_error_versus_log10_delta_x_double_kmax5_RK61_kepler_27dec2023.txt";
 
             ulong number_of_steps = 200;
 
