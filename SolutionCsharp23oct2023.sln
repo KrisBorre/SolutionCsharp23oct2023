@@ -53,11 +53,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRK61_6nov2023", "ConsoleDifferentialEquationKeplerRK61_6nov2023\ConsoleDifferentialEquationKeplerRK61_6nov2023.csproj", "{4C715214-1052-4AB1-A281-5FC82E485ADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEnum8nov2023", "ConsoleEnum8nov2023\ConsoleEnum8nov2023.csproj", "{2833DBA7-9AEF-4186-B8F6-55CA6D440D99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleEnum8nov2023", "ConsoleEnum8nov2023\ConsoleEnum8nov2023.csproj", "{2833DBA7-9AEF-4186-B8F6-55CA6D440D99}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleFormat8nov2023", "ConsoleFormat8nov2023\ConsoleFormat8nov2023.csproj", "{59820066-1D83-4804-A986-67CC56E64C8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK41_8nov2023", "ConsoleDifferentialEquationKeplerRK41_8nov2023\ConsoleDifferentialEquationKeplerRK41_8nov2023.csproj", "{602B859C-933E-4124-8660-FF3C47266604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRK41_8nov2023", "ConsoleDifferentialEquationKeplerRK41_8nov2023\ConsoleDifferentialEquationKeplerRK41_8nov2023.csproj", "{602B859C-933E-4124-8660-FF3C47266604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsMapmaker3feb2024", "WinFormsMapmaker3feb2024\WinFormsMapmaker3feb2024.csproj", "{E66FF083-E40C-499E-9A13-27315B35AC08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryMapmaker4feb2024", "LibraryMapmaker4feb2024\LibraryMapmaker4feb2024.csproj", "{561210BC-A935-45DC-8F20-6DCEBBC1AB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsMapmaker4feb2024", "WinFormsMapmaker4feb2024\WinFormsMapmaker4feb2024.csproj", "{9159B374-31CE-4BD9-9726-22DF6287F01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMapmaker4feb2024", "ConsoleMapmaker4feb2024\ConsoleMapmaker4feb2024.csproj", "{760B92B9-4709-4A4C-9F6F-517277B7F109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +185,22 @@ Global
 		{602B859C-933E-4124-8660-FF3C47266604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{602B859C-933E-4124-8660-FF3C47266604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{602B859C-933E-4124-8660-FF3C47266604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66FF083-E40C-499E-9A13-27315B35AC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66FF083-E40C-499E-9A13-27315B35AC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66FF083-E40C-499E-9A13-27315B35AC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66FF083-E40C-499E-9A13-27315B35AC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561210BC-A935-45DC-8F20-6DCEBBC1AB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561210BC-A935-45DC-8F20-6DCEBBC1AB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561210BC-A935-45DC-8F20-6DCEBBC1AB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561210BC-A935-45DC-8F20-6DCEBBC1AB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9159B374-31CE-4BD9-9726-22DF6287F01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9159B374-31CE-4BD9-9726-22DF6287F01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9159B374-31CE-4BD9-9726-22DF6287F01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9159B374-31CE-4BD9-9726-22DF6287F01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760B92B9-4709-4A4C-9F6F-517277B7F109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760B92B9-4709-4A4C-9F6F-517277B7F109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760B92B9-4709-4A4C-9F6F-517277B7F109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760B92B9-4709-4A4C-9F6F-517277B7F109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
